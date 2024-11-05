@@ -6,6 +6,6 @@ We have now released a demo source code to show how you can build your own appli
 
 More interfaces and features will also be open soon to give you better control of the hardware.
 
-Join us at https://discord.gg/kmDmeEQR 
+Join us at https://discord.gg/GjxWZ5j7
 
 Enjoy and have fun!
